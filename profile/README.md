@@ -42,7 +42,6 @@ The focus-models are actively maintained. Besides this, there are also models th
 - [MINIPb](https://github.com/model-library-pps/MINIPb_archive)
 - [NPOTATO](https://github.com/model-library-pps/NPOTATO_archive)
 - [NWHEAT](https://github.com/model-library-pps/NWHEAT_archive)
-- [ORYZA2020 archive](https://github.com/model-library-pps/ORYZA2020_archive)
 - [PALMSIM archive](https://github.com/model-library-pps/PALMSIM_archive)
 - [POTATOS](https://github.com/model-library-pps/POTATOS_archive)
 - [QUEFTS archive](https://github.com/model-library-pps/QUEFTS_archive)
