@@ -15,6 +15,7 @@ The Model Library PPS facilitates the development of new models and the maintena
 
 The Plant Production Systems chair group has also contributed to the development of various other models that are currently maintained by people outside the group. Links to the repositories of these models are:
 
+- [FOODSOM](https://git.wur.nl/aps/foodsom-public)
 - [WOFOST](https://github.com/ajwdewit/pcse)
 
 ## PPS archive models
