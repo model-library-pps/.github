@@ -22,6 +22,7 @@ The Plant Production Systems chair group has also contributed to the development
 The focus-models are actively maintained. Besides this, there are also models that we are currently not maintaining. We also do not offer support in using them, but we nevertheless find it important that their source codes and documentation remain publicly available. These models are:
 
 - [CASE2](https://github.com/model-library-pps/CASE2_archive)
+- [Cropping Calendar Construction Model](https://github.com/model-library-pps/CroppingCalendarConstructionModel_archive.git)
 - [FARMSIM archive](https://github.com/model-library-pps/FARMSIM_archive)
 - [LiGAPS-Beef](https://github.com/model-library-pps/LiGAPS-Beef_archive)
 - [LIGAPS-Dairy](https://github.com/model-library-pps/LIGAPS-Dairy_archive)
