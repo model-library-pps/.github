@@ -1,11 +1,11 @@
 # Model Library PPS
 
-Over the last 60 years, many models in agricultural and environmental science have been developed at Wageningen University. On the initiative of the Plant Production Systems chair group, the source code of many of these models was collected in an archive and made publicly available on the [Model & Data library](https://models.pps.wur.nl/models) website. The aim of this website was to make it easier to find these models and to keep older models, which can still be potentially useful, available. The website fulfilled an important function in keeping the models and documentation available. However, there were various issues that made it hard for model developers to use it efficiently and to share it with outsiders. In order to keep the models available and share them in a modern, standardized way, the archived models were migrated to GitHub repositories within a GitHub organization “Model Library PPS” (https://github.com/model-library-pps). 
+Over the past 60 years, many models in agricultural and environmental science have been developed at Wageningen University and Research. On the initiative of the Plant Production Systems chair group, the source code of many of these models was collected in an archive and made publicly available on the [Model & Data library](https://models.pps.wur.nl/models) website. The aim of this website was to make it easier to find these models and to keep older models, which can still be potentially useful, available. That website indeed fulfilled an important function in keeping the models and documentation available. However, there were various issues that made it hard for model developers to use it efficiently and to share it with others. In order to keep the models available and share them in a modern, standardized way, the archived models have now been migrated to GitHub repositories within a GitHub organization “Model Library PPS” (https://github.com/model-library-pps). 
 
-This Model Library PPS  does not only aim at preserving the source code and documentation of old models (archive models). It also facilitates the development of new models and the maintenance of existing models by the Plant Production Systems chair group (focus moels).
+This Model Library PPS  does not only aim at preserving the source code and documentation of old models (archive models). It also facilitates the development of new models and the maintenance of existing ones by the Plant Production Systems chair group (focus models).
 
 ## PPS focus models
-The Model Library PPS facilitates the development of new models and the maintenance and sharing of certain existing models. Links to the repositories to these so-called focus models are
+The Model Library PPS facilitates the development of new models and the maintenance and sharing of selected existing models. Links to the repositories of these so-called focus models are
 
 - FARMSIM
 - [LINTUL](https://github.com/model-library-pps/LINTUL)
@@ -19,7 +19,7 @@ The Plant Production Systems chair group has also contributed to the development
 - [WOFOST](https://github.com/ajwdewit/pcse)
 
 ## PPS archive models
-The focus-models are actively maintained. Besides this, there are also models that we are currently not maintaining. We also do not offer support in using them, but we nevertheless find it important that their source codes and documentation remain publicly available. These models are:
+The focus models are actively maintained. Besides, there are also models that we are currently not maintaining. We also do not offer support in using them, yet find it important that their source codes and documentation remain publicly available. These models are:
 
 - [CASE2](https://github.com/model-library-pps/CASE2_archive)
 - [Cropping Calendar Construction Model](https://github.com/model-library-pps/CroppingCalendarConstructionModel_archive.git)
