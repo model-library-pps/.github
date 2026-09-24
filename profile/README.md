@@ -51,3 +51,9 @@ The focus models are actively maintained. Besides, there are also models that we
 - [RC-KP](https://github.com/model-library-pps/RC_KP_archive)
 - [SUCROS](https://github.com/model-library-pps/SUCROS_archive)
 - [WaterStress PureStand/Intercrops](https://github.com/model-library-pps/WaterStress--PureStand-Intercrops_archive)
+
+## Contact person
+For questions of the Model Library PPS as a whole, please contact:
+- Herman Berghuijs (herman.berghuijs@wur.nl)
+
+For questions related to a specific model, please check the contact details of the maintainer(s) of that model.
