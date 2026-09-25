@@ -1,8 +1,11 @@
 # Model Library PPS
+Over the past 60 years, many models in agricultural and environmental science have been developed by [Wageningen University & Research](https://www.wur.nl/en/). This Model Library PPS is an initiative of the [Plant Production Systems chair group](https://www.wur.nl/en/chair-groups/plant-production-systems-group). It aims to:
 
-Over the past 60 years, many models in agricultural and environmental science have been developed at Wageningen University and Research. On the initiative of the Plant Production Systems chair group, the source code of many of these models was collected in an archive and made publicly available on the [Model & Data library](https://models.pps.wur.nl/models) website. The aim of this website was to make it easier to find these models and to keep older models, which can still be potentially useful, available. That website indeed fulfilled an important function in keeping the models and documentation available. However, there were various issues that made it hard for model developers to use it efficiently and to share it with others. In order to keep the models available and share them in a modern, standardized way, the archived models have now been migrated to GitHub repositories within a GitHub organization “Model Library PPS” (https://github.com/model-library-pps). 
+- Facilitate the development of new models
+- Maintain existing models
+- Share the source code and documentation of models
 
-This Model Library PPS  does not only aim at preserving the source code and documentation of old models (archive models). It also facilitates the development of new models and the maintenance of existing ones by the Plant Production Systems chair group (focus models).
+Besides, it also aims to preserve older models (archive models). These models may not be used anymore, but they contain a substantial amount of knowledge. In addition, they can include modeling approaches that can still be applied in current models.
 
 ## PPS focus models
 The Model Library PPS facilitates the development of new models and the maintenance and sharing of selected existing models. Links to the repositories of these so-called focus models are
