@@ -22,7 +22,7 @@ The Plant Production Systems chair group has also contributed to the development
 - [WOFOST](https://github.com/ajwdewit/pcse)
 
 ## PPS archive models
-The focus models are actively maintained. Besides, there are also models that we are currently not maintaining. We also do not offer support in using them, yet find it important that their source codes and documentation remain publicly available. These models are:
+The following archive models are currently not maintained. We also do not offer support in using them, yet find it important that their source codes and documentation remain publicly available. These models are:
 
 - [CASE2](https://github.com/model-library-pps/CASE2_archive)
 - [Cropping Calendar Construction Model](https://github.com/model-library-pps/CroppingCalendarConstructionModel_archive.git)
