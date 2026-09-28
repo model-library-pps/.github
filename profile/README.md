@@ -13,7 +13,7 @@ The Model Library PPS facilitates the development of new models and the maintena
 - FARMSIM
 - [LINTUL](https://github.com/model-library-pps/LINTUL)
 - [LINTUL Cassava NPK](https://github.com/model-library-pps/lintul-cassava-npk)
-- PALMSIM
+- [PALMSIM](https://github.com/model-library-pps/PALMSIM)
 - [QUEFTS](https://github.com/model-library-pps/QUEFTS)
 
 The Plant Production Systems chair group has also contributed to the development of various other models that are currently maintained by people outside the group. Links to the repositories of these models are:
