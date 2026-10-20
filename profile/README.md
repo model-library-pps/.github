@@ -34,7 +34,7 @@ The following archive models are currently not maintained. We also do not offer 
 - [LINTUL-1](https://github.com/model-library-pps/LINTUL-1_archive)
 - [LINTUL 1 and 2 in R](https://github.com/model-library-pps/LINTUL-1-and-2-in-R_archive)
 - [LINTUL-2](https://github.com/model-library-pps/LINTUL-2_archive)
-- [LINTUL-3](https://github.com/model-library-pps/LINTUL-3)
+- [LINTUL-3](https://github.com/model-library-pps/LINTUL-3_archive)
 - [LINTUL-4](https://github.com/model-library-pps/LINTUL-4_archive)
 - [LINTUL-4 VSH](https://github.com/model-library-pps/LINTUL4-VSHT_archive)
 - [LINTUL-5](https://github.com/model-library-pps/LINTUL-5_archive)
